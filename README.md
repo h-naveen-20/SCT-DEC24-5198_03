@@ -1,3 +1,3 @@
 # Tic-Tac-Toe Web Application
 
-A fun and interactive tic-tac-toe game where users can play against each other or the computer. This application tracks the game state and determines the winner with intuitive functionality.
+A fun and engaging Tic-Tac-Toe game where players can compete against each other or challenge the computer. The application keeps track of the game state and automatically determines the winner with an easy-to-use interface.
